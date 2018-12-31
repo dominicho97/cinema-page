@@ -26,9 +26,14 @@ li a:hover:not(.active) {
   width: 900px;
   height: 550px;
   padding: 30px;
-  border: 10px solid blue;
+  border: 10px solid blue; }
+
+.movie-box {
   margin-top: 100px;
   margin-left: 250px;
   margin-right: 250px; }
+
+.movie-1 {
+  background-image: url(/images/aquaman.jpg); }
 
 /*# sourceMappingURL=style.css.map */
