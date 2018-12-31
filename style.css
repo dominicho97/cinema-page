@@ -26,7 +26,7 @@ li a:hover:not(.active) {
   width: 900px;
   height: 550px;
   padding: 30px;
-  border: 10px solid blue; }
+  border: 10px solid #474768; }
 
 .movie-box {
   margin-top: 100px;
@@ -34,6 +34,13 @@ li a:hover:not(.active) {
   margin-right: 250px; }
 
 .movie-1 {
-  background-image: url(/images/aquaman.jpg); }
+  padding-left: 20px;
+  display: inline-block;
+  text-align: center; }
+
+.movie-2 {
+  padding-left: 30px;
+  display: inline-block;
+  text-align: center; }
 
 /*# sourceMappingURL=style.css.map */
