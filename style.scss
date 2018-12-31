@@ -4,7 +4,7 @@
 
 $color: white;
 
-
+//navbar
 ul {
   list-style-type: none;
   margin: 0;
@@ -31,4 +31,20 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
+}
+
+//end of navbar//
+
+//border box
+
+
+.movie-box{
+box-sizing: content-box;  
+width: 900px;
+height: 550px;
+padding: 30px;  
+border: 10px solid blue;
+margin-top: 100px;
+margin-left: 250px;
+margin-right: 250px;
 }

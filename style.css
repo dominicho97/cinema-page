@@ -21,4 +21,14 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50; }
 
+.movie-box {
+  box-sizing: content-box;
+  width: 900px;
+  height: 550px;
+  padding: 30px;
+  border: 10px solid blue;
+  margin-top: 100px;
+  margin-left: 250px;
+  margin-right: 250px; }
+
 /*# sourceMappingURL=style.css.map */
