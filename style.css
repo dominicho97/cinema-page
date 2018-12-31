@@ -43,4 +43,9 @@ li a:hover:not(.active) {
   display: inline-block;
   text-align: center; }
 
+.movie-3 {
+  padding-left: 30px;
+  display: inline-block;
+  text-align: center; }
+
 /*# sourceMappingURL=style.css.map */
